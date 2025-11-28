@@ -10,8 +10,8 @@ Responsive UI (mobile, tablet, desktop)
 Secure API Endpoints using Express & JWT
 State Management with React Context / Redux (optional)
 
-🛠️ Tech Stack
-Frontend: React.js, React Router, Context API / Redux, CSS / Tailwind 
-Backend: Node.js, Express.js 
-Database: MongoDB / Mongoose 
+🛠️ Tech Stack:
+Frontend: React.js, React Router, Context API / Redux, CSS / Tailwind
+Backend: Node.js, Express.js
+Database: MongoDB / Mongoose
 Authentication: JWT
